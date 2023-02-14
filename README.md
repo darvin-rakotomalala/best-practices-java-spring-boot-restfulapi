@@ -17,7 +17,7 @@ Afin d'écrire du code facile à lire et à maintenir, il est important de suivr
 9. Utiliser des Design Patterns
 10. Votre code est comme une histoire : Peu importe l'élégance, l'efficacité ou la complexité de votre code, un morceau de code n'aura de sens que s'il est bien organisé et facile à suivre.
 
-Ressources :
+Ressources utiles :
 - [10 bonnes pratiques en Java](https://medium.com/@alexthedev/10-best-practices-in-java-dc0b06dda858)
 - [Java Best Practices](https://www.javaguides.net/p/java-best-practices.html)
 - [REST API Design Best Practices](https://www.javaguides.net/2018/06/restful-api-design-best-practices.html)
